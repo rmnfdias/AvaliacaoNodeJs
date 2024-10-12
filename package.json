@@ -1,0 +1,24 @@
+{
+  "name": "avaliacaonodejs",
+  "version": "1.0.0",
+  "description": "Repositório para avaliação de backend do curso JP Senac 2024.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmnfdias/AvaliacaoNodeJs.git"
+  },
+  "author": "Ramon Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmnfdias/AvaliacaoNodeJs/issues"
+  },
+  "homepage": "https://github.com/rmnfdias/AvaliacaoNodeJs#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "jest": "^29.7.0"
+  }
+}
